@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1523465080 source:c:\users\lucas\downloads\tp1\tp_1_cascara\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1523222412 c:\users\lucas\downloads\tp1\tp_1_cascara\lib.h
+
+1523461551 source:c:\users\lucas\downloads\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 c:\users\lucas\downloads\tp1\tp_1_cascara\funciones.h
+
+1523495697 source:c:\users\alumno\desktop\clase-2-master\tp_1_cascara\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1523495712 c:\users\alumno\desktop\clase-2-master\tp_1_cascara\lib.h
+
+1523495510 source:c:\users\alumno\desktop\clase-2-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523479177 c:\users\alumno\desktop\clase-2-master\tp_1_cascara\funciones.h
+
+1523562072 source:c:\users\lucas\downloads\tp-prog\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<conio.h>
+
+1523563204 c:\users\lucas\downloads\tp-prog\tp\lib.h
+
+1523563204 source:c:\users\lucas\downloads\tp-prog\tp\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1523591343 source:c:\users\lucas\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	<conio.h>
+
+1523563204 c:\users\lucas\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\lib.h
+
+1523591113 source:c:\users\lucas\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\lib.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+
